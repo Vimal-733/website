@@ -26,6 +26,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 # PROGRAM:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -137,7 +138,6 @@ Publish the website in the given URL.
     </style>
 </head>
 <body>
-
 <header>
     <h1>Vimal's Restaurant</h1>
 </header>
@@ -172,7 +172,8 @@ Publish the website in the given URL.
 
 </body>
 </html>
-
+```
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -350,7 +351,8 @@ Publish the website in the given URL.
 
 </body>
 </html>
-
+```
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -504,7 +506,8 @@ Publish the website in the given URL.
 
 </body>
 </html>
-
+```
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -670,10 +673,12 @@ Publish the website in the given URL.
 
 </body>
 </html>
-
+```
 
 # OUTPUT:
+
 ![Screenshot 2024-11-29 110651](https://github.com/user-attachments/assets/86e474ad-3015-4b62-886d-d6d35130c736)
+
 ![Screenshot 2024-11-29 110718](https://github.com/user-attachments/assets/31164842-4046-4cc2-9b3a-d945ef2f6267)
 ![Screenshot 2024-11-29 110737](https://github.com/user-attachments/assets/3ddf2b40-d8b1-4445-ac3f-07317845fb01)
 ![Screenshot 2024-11-29 110748](https://github.com/user-attachments/assets/fcc4554d-8e1f-4218-a0c7-59a1734581e4)
